@@ -3,8 +3,9 @@ description: Experiences sharing
 author: Jack Deng
 avatar: /logo.png #头像
 email: 1076623892@qq.com
-
-
+ disqus:
+ shortname: jack-925
+comments: true
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
@@ -13,8 +14,7 @@ plugins:
 
 paginate: 6 #每页显示几条博客
 
- disqus:
- shortname: jack-925
+
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
