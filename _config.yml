@@ -1,9 +1,10 @@
 title: Jack's blog
 description: Experiences sharing
 author: Jack Deng
+location: 现在广州 +86 17603009861 
 avatar: /logo.png #头像
 email: 1076623892@qq.com
-disqus: jack-925
+disqus: jack-925 #这个shortname是在disqus上注册的，jack-925.disqus.com
  
 
 comments: true
